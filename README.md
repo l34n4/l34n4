@@ -18,5 +18,6 @@
 
 With a Master’s in Marketing and Communication and specialized training in Data Analytics, I bring a unique combination of strategic thinking and technical expertise. My approach focuses on turning complex datasets into meaningful insights that empower teams and optimize performance. I’m passionate about leveraging technology and data to solve problems, uncover trends, and create value in fast-paced, innovative environments.
 
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/leana-pacchioni/)
+
 📧 leanapac22@orange.fr
